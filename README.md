@@ -10,7 +10,7 @@ Attendance through facial recognition is the future. This application is a low-c
 ------------------------------------------
 
 
-# How does it work? 
+# How does it work ? 
 
 For taking attendance we'll be using the cameras installed in the classroom/office and perform facial recognition on the faces of students/employees. During their registration specific number of photos will be taken of pupil to be added to the dataset, which later on be used to train our deep learning face recognition model which will be done every year to retrain the model to prevent faulty system due to evolving faces.
 
